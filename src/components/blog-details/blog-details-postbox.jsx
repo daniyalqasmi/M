@@ -73,7 +73,7 @@ const single_post_details  = {
       },
    ],
    thumb_list: thumb_2,
-   video_thumb: thumb_3,
+   // video_thumb: thumb_3,
    title_3: <>“Amazing Beach Scenery & Relaxing Ocean Sounds”</>,
    des_4: <>We have covered many special events such as fireworks, fairs, parades, races, walks, awards
    ceremonies, fashion shows, sporting events, and even a memorial service.Lorem ipsum dolor
@@ -110,7 +110,7 @@ const single_post_details  = {
 }
 const {thumb, date, comments, upload_time, title_1, des_1, des_2, des_3, quate_icon, blockquote, writer, title_2, postbox_list, thumb_list, video_thumb, title_3, des_4, tags, comment_reply}  =  single_post_details
 const BlogDetailsPostbox = () => {
-  const [isVideoOpen, setIsVideoOpen] = useState(false);
+//   const [isVideoOpen, setIsVideoOpen] = useState(false);
 
     return (
         <>
@@ -167,7 +167,7 @@ const BlogDetailsPostbox = () => {
                                     </div>
                                  </div>
    
-                                 <div className="postbox__thumb m-img p-relative">
+                                 {/* <div className="postbox__thumb m-img p-relative">
                                     <Image src={video_thumb} alt="theme-pure" />
                                     <div className="tp-video-play play-btn text-center">
                                        <a className="popup-video" 
@@ -175,7 +175,7 @@ const BlogDetailsPostbox = () => {
                                        ><i className="fa-sharp fa-solid fa-play"></i></a>
                                     </div>
                                     <span className="postbox-details-desc-thumb-caption">{title_3} </span>
-                                 </div>
+                                 </div> */}
                                  <p>{des_4}</p> 
 
                                  <div className="postbox__details-share-wrapper">

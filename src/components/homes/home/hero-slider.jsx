@@ -73,7 +73,7 @@ const HeroSlider = () => {
   }, [])
 
 
-  const [isVideoOpen, setIsVideoOpen] = useState(false);
+  // const [isVideoOpen, setIsVideoOpen] = useState(false);
 
   return (
     <>
@@ -187,11 +187,11 @@ const HeroSlider = () => {
       </section>
 
       {/* video modal start */}
-      <VideoPopup
+      {/* <VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
         videoId={"dGcsHMXbSOA"}
-      />
+      /> */}
       {/* video modal end */}
     </>
   );

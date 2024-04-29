@@ -40,7 +40,7 @@ const service_details_content = {
 const {service_details_tab, title, description, title_2, description_2, feture_list, description_3} = service_details_content
 
 const ServiceDetailsArea = () => {
-  const [isVideoOpen, setIsVideoOpen] = useState(false);
+//   const [isVideoOpen, setIsVideoOpen] = useState(false);
   const [isActive, setIsActive] = useState(1)
 
     return (
@@ -87,12 +87,12 @@ const ServiceDetailsArea = () => {
                            <div className="col-lg-6">
                               <div className="tp-service-details-thumb p-relative">
                                  <Image src={service_video_thumb} alt="theme-pure" />
-                                 <div className="tp-video-play text-center">
+                                 {/* <div className="tp-video-play text-center">
                                     <a className="popup-video effect-1 effect-2" 
                                         onClick={() => setIsVideoOpen(true)}  
                                         ><i className="fa-sharp fa-solid fa-play"></i>
                                     </a>
-                                 </div>
+                                 </div> */}
                               </div>
                            </div>
                            <div className="col-lg-6">
@@ -146,11 +146,11 @@ const ServiceDetailsArea = () => {
          </section>
 
             {/* video modal start */}
-            <VideoPopup 
+            {/* <VideoPopup 
                 isVideoOpen={isVideoOpen}
                 setIsVideoOpen={setIsVideoOpen}
                 videoId={"csnD5EVL5z8"}
-            />
+            /> */}
             {/* video modal end */}
         </>
     );

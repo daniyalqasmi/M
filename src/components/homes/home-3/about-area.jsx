@@ -23,7 +23,7 @@ import about_img_10 from "@assets/img/business/shape-5.png";
 const AboutArea = ({about}) => {
     const percentage = 50;
     const percentage2 = 75;
-  const [isVideoOpen, setIsVideoOpen] = useState(false);
+//   const [isVideoOpen, setIsVideoOpen] = useState(false);
 
     return (
         <>
@@ -52,12 +52,12 @@ const AboutArea = ({about}) => {
                             <Image className="shape-1" src={about_img_3} alt="theme-pure" />
                             <div className="shape-2 p-relative">
                             <Image src={about_img_4} alt="theme-pure" />
-                            <div className="tp-video-play">
+                            {/* <div className="tp-video-play">
                                 <a className="popup-video" 
                                 onClick={() => setIsVideoOpen(true)}>
                                     <i className="fa-sharp fa-solid fa-play"></i>
                                 </a>
-                            </div>
+                            </div> */}
                             </div>
                             <Image className="shape-3" src={about_shape_1} alt="theme-pure" />
                             <Image className="shape-4" src={about_shape_2} alt="theme-pure" />
@@ -131,11 +131,11 @@ const AboutArea = ({about}) => {
             </section>
 
          {/* video modal start */}
-        <VideoPopup 
+        {/* <VideoPopup 
             isVideoOpen={isVideoOpen}
             setIsVideoOpen={setIsVideoOpen}
             videoId={"csnD5EVL5z8"}
-        />
+        /> */}
       {/* video modal end */}
         </>
     );

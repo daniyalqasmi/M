@@ -26,7 +26,7 @@ const support_contact = {
 const {sub_title_1, sub_title_2, info, lists} = support_contact
 
 const SupportArea = ()  => {
-  const [isVideoOpen, setIsVideoOpen] = useState(false);
+//   const [isVideoOpen, setIsVideoOpen] = useState(false);
 
     return(
         <>
@@ -65,11 +65,11 @@ const SupportArea = ()  => {
                      <Image className="shape-1" src={support_img_2} alt="theme-pure" />
                      <div className="shape-2 p-relative">
                         <Image src={support_img_3} alt="theme-pure" />
-                        <div className="tp-video-play">
+                        {/* <div className="tp-video-play">
                            <a className="popup-video" 
                            onClick={() => setIsVideoOpen(true)} 
                            ><i className="fa-sharp fa-solid fa-play"></i></a>
-                        </div>
+                        </div> */}
                      </div>
                      <Image className="shape-3" src={support_shape} alt="theme-pure" />
                   </div>
@@ -79,11 +79,11 @@ const SupportArea = ()  => {
       </section>
 
        {/* video modal start */}
-       <VideoPopup
+       {/* <VideoPopup
         isVideoOpen={isVideoOpen}
         setIsVideoOpen={setIsVideoOpen}
         videoId={"dGcsHMXbSOA"}
-      />
+      /> */}
       {/* video modal end */}
         </>
     )
