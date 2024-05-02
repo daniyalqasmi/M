@@ -1,9 +1,9 @@
 #Developed by
-## ThemePure
-Technix React Next js Template 
+## MDQ Developers
+Aviaiton React Next js Template 
 
 ```bash
-technix next js
+MDQ Developers next js
 
 
 ```
