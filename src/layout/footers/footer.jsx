@@ -13,12 +13,12 @@ const footer_content = {
     mail: "@themepure.gmail.com",
     contact_text: "PERFECT SOLUTION From  It Advisor",
     phone: "92 666 888 0000",
-    info: <>Global Aviation Solutions - Transworld Aviation & Global Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
+    info: <>M Capital Aviation Solutions - Transworld Aviation & M Capital Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>1630 NW 3RD ST <br />
     Deerfield Beach, FL 33442</>,
     mail_2: "needhelp@company.com",
-    mail_phone: <> Daniyalqasmi5327@gmail.com <br /> +92 347 8381849</>,
+    mail_phone: <> info@MCapital.com <br /> +92 347 8381849</>,
 
 
     service_links: [
