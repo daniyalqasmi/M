@@ -9,16 +9,16 @@ import EmailAeroplan from '@/src/svg/email-aeroplan';
 import SocialLinks, { CopyRight } from '@/src/common/social-links';
 
 const footer_content = { 
-    contact_us: <> Contact us at <span>Daniyalqasmi5327@gmail.com </span></>,
-    mail: "@themepure.gmail.com",
-    contact_text: "PERFECT SOLUTION From  It Advisor",
-    phone: "92 666 888 0000",
+    contact_us: <> Contact us at <span>info@MCapital.com </span></>,
+    mail: "#",
+    contact_text: "PERFECT Platform for all your MRO, supply chain, worldwide.",
+    phone: "+01 000 000 0000",
     info: <>M Capital Aviation Solutions - Transworld Aviation & M Capital Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>1630 NW 3RD ST <br />
     Deerfield Beach, FL 33442</>,
     mail_2: "needhelp@company.com",
-    mail_phone: <> info@MCapital.com <br /> +92 347 8381849</>,
+    mail_phone: <> info@MCapital.com <br /> +01 000000000</>,
 
 
     service_links: [
@@ -61,7 +61,7 @@ const Footer = () => {
                                         </div>
                                         <div className="tp-footer-top-right-content">
                                             <p>{contact_text}</p>
-                                            <a href={`tel:${phone}`}>+92 347 8381849</a>
+                                            <a href={`tel:${phone}`}>+01 000000000</a>
                                         </div>
                                     </div>
                                 </div>

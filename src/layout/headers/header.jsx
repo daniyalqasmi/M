@@ -160,7 +160,7 @@ const HeaderOne = () => {
                                  </Link>
                               </li>
                               <li>
-                                 <a href="mailto:technix@support.com"><span><i className="fa-solid fa-envelope"></i></span> Daniyalqasmi5327@gmail.com</a>
+                                 <a href="#"><span><i className="fa-solid fa-envelope"></i></span> info@MCapital.com</a>
                               </li>
                            </ul>
                         </div>

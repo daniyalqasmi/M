@@ -202,7 +202,7 @@ const AboutArea = () => {
                            <div className="tp-about-call">
                               <a href="tel:01310-069824">
                                  <p><i className="fa-solid fa-phone"></i> 
-                                 Global aviation solutions for clienteles<span>+88 01310-069824</span></p>
+                                 M Capital aviation solutions for clienteles<span>+01 000 000 0000</span></p>
                               </a>
                            </div>
 
