@@ -59,7 +59,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                         <MobileMenus />
                     </div>
                     <div className="offcanvas__popup">
-                        <p>Your Global Aviation Solutions - Transworld Aviation & Global Aerospace Corporation.</p>
+                        <p>Your M Capital Aviation Solutions - Transworld Aviation & Global Aerospace Corporation.</p>
                         <div className="offcanvas__popup-gallery">
                             <h4 className="offcanvas__title">Gallery</h4>
                             {images.map((item, i) => 
@@ -86,7 +86,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                             <i className="fa-solid fa-envelope"></i>
                             </div>
                             <div className="offcanvas__contact-content-content">
-                            <a href="mailto:needhelp@company.com">Daniyalqasmi5327@gmail.com</a>
+                            <a href="mailto:needhelp@company.com">info@MCapital.com</a>
                             </div>
                         </div>
                         <div className="offcanvas__contact-content d-flex">
@@ -94,7 +94,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                             <i className="fa-solid fa-phone"></i>
                             </div>
                             <div className="offcanvas__contact-content-content">
-                            <a href="tel:01310-069824"> +92 347 8381849</a>
+                            <a href="tel:01310-069824"> +01 000 000 0000</a>
                             </div>
                         </div>
                     </div>
