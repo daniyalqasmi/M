@@ -252,11 +252,11 @@ const BlogDetailsPostbox = () => {
          </section>
 
 
-         <VideoPopup
+         {/* <VideoPopup
          isVideoOpen={isVideoOpen}
          setIsVideoOpen={setIsVideoOpen}
          videoId={"EW4ZYb3mCZk"} 
-         />
+         /> */}
         </>
     );
 };
