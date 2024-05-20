@@ -14,7 +14,7 @@ const service_data = [
     {
         id: 1, 
         alphabet: "",
-        title: <>Global Presence</>,
+        title: <>M Capital Presence</>,
         img: service_img_1,
         description: <>Exceeding customer expectations via streamlined supply chain operations.</>,        
 

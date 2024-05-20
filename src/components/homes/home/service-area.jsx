@@ -24,7 +24,7 @@ import reload_img from "@assets/img/fun-fact/world.png";
    {
       id: 1, 
       count: 30,
-      info: "Experience",
+      info: "Our Clients",
       cls: "",
       cls_2: "purecounter",
       icon: "+",
@@ -199,7 +199,7 @@ const ServiceArea = () => {
                                     </span>
                                  </h3>
                                  <p>
-                                 Transworld Aviation was established at Jebel Ali Free Zone, Dubai UAE in <br /> 1994 with a vision to provide customer support in aviation sector.
+                                 M CapitalAviation was established at Jebel Ali Free Zone, Dubai UAE in <br /> 1994 with a vision to provide customer support in aviation sector.
                                  </p>
                                  <ul>
                                     <li>

@@ -175,7 +175,7 @@ const HeroSlider = () => {
               <Image src={service_shape} alt="theme-pure" />
             </div>
             <p>
-              Elevating global aviation with premier services, <span>expertise,</span> and industry-setting <span>standards</span>
+              Elevating M Capital aviation with premier services, <span>expertise,</span> and industry-setting <span>standards</span>
 
             </p>
             <div className="tp-hero-service-quote">

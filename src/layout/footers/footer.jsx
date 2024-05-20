@@ -13,7 +13,7 @@ const footer_content = {
     mail: "#",
     contact_text: "PERFECT Platform for all your MRO, supply chain, worldwide.",
     phone: "+01 000 000 0000",
-    info: <>M Capital Aviation Solutions - Transworld Aviation & M Capital Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
+    info: <>M Capital   Solutions - M CapitalAviation & M Capital Aerospace Corporation. Excellence in MRO, supply chain, worldwide.</>,
     map: "https://www.google.com/maps/search/86+Road+Broklyn+Street,+600+New+York,+USA/@40.6897806,-74.0278086,12z/data=!3m1!4b1",
     address: <>1630 NW 3RD ST <br />
     Deerfield Beach, FL 33442</>,
@@ -22,7 +22,7 @@ const footer_content = {
 
 
     service_links: [
-        "Global Presence",
+        "M Capital Presence",
         "Commercial",
         "Aircraft Parts",
         "Executive",

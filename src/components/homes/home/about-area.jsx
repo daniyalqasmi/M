@@ -22,7 +22,7 @@ const about_data = [
     {
         id:1,
         img: about_img_1,
-        title: "Global Presence",
+        title: "M Capital Presence",
         description: <>Operating on a worldwide scale to serve clients internationally.</>,
     },
     {
@@ -155,7 +155,7 @@ const AboutArea = () => {
                                     our <span className="title-pre-color">best service</span>
                                     <AngleArrow /> 
                                  </span>
-                                 <h3 className="tp-section-title">Global Aerospace Solutions
+                                 <h3 className="tp-section-title">M Capital Aerospace Solutions
                                     <span className="title-left-shape">
                                     <LineArrowTwo /> 
                                     </span>

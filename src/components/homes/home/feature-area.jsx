@@ -31,7 +31,7 @@ const feature_content = {
             id: 3,
             img: feature_img_3,
             title: "Our Partners",
-            description: <>We at Transworld Aviation provide <br /> customized  technical solutions, parts distribution, Maintenance <br /> Repair and Overhaul</>,
+            description: <>We at M CapitalAviation provide <br /> customized  technical solutions, parts distribution, Maintenance <br /> Repair and Overhaul</>,
         },
     ],
 
@@ -56,7 +56,7 @@ const FeatureArea = ({ about }) => {
                                     <span className="title-pre-color">About Us</span>
                                     <AngleArrow />
                                 </span>
-                                <h3 className="tp-section-title">We’ve Been Working For <span className="title-color">30 Years</span>
+                                <h3 className="tp-section-title">We’ve Been Working To <span className="title-color">Give Your Business Best Experience</span>
                                     <span className="title-right-shape">
                                         <LineArrowFive />
                                     </span>

@@ -4,7 +4,7 @@ import Image from 'next/image';
 import Slider from "react-slick";
 
 const slider_data = [
-    {id: 1,  title: <>Global <span>Presence</span></>},
+    {id: 1,  title: <>M Capital <span>Presence</span></>},
     {id: 2,  title: <>Commercial <span>Aircraft</span></>},
     {id: 3,  title: <>Executive <span>Aircraft</span></>},
     {id: 4,  title: <>Aerospace <span>Metals</span></>},

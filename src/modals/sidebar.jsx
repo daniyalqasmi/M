@@ -59,7 +59,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                         <MobileMenus />
                     </div>
                     <div className="offcanvas__popup">
-                        <p>Your M Capital Aviation Solutions - Transworld Aviation & Global Aerospace Corporation.</p>
+                        <p>Your M Capital   Solutions - M CapitalAviation & M Capital Aerospace Corporation.</p>
                         <div className="offcanvas__popup-gallery">
                             <h4 className="offcanvas__title">Gallery</h4>
                             {images.map((item, i) => 
