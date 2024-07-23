@@ -18,7 +18,7 @@ const footer_content = {
     address: <>1630 NW 3RD ST <br />
     Deerfield Beach, FL 33442</>,
     mail_2: "needhelp@company.com",
-    mail_phone: <> info@MCapital.com <br /> +01 000000000</>,
+    mail_phone: <> info@MCapital.com <br /> +1 (281) 701 3321</>,
 
 
     service_links: [
@@ -61,7 +61,7 @@ const Footer = () => {
                                         </div>
                                         <div className="tp-footer-top-right-content">
                                             <p>{contact_text}</p>
-                                            <a href={`tel:${phone}`}>+01 000000000</a>
+                                            <a href={`tel:${phone}`}>+1 (281) 701 3321</a>
                                         </div>
                                     </div>
                                 </div>

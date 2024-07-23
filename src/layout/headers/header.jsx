@@ -149,18 +149,15 @@ const HeaderOne = () => {
                         <div className="tp-header-3-top-info d-flex">
                            <div className="tp-header-3-top-call d-flex">
                               <span>Call</span>
-                              <p>Consult With It Advisor? <a href="#">Click Now</a></p>
+                              <p>+1 (281) 701 3321</p>
                            </div>
                            <ul>
                               <li>
                                  <Link href="https://www.google.com/maps/@36.0758266,-79.4558848,17z" target="_blank">
                                     <span><i className="fa-sharp fa-solid fa-location-dot"></i></span>
-                                    630 NW 3RD ST
-                                    Deerfield Beach, FL 33442
+                                    12501 REED ROAD,
+                                    SUGAR LAND, TX 77478
                                  </Link>
-                              </li>
-                              <li>
-                                 <a href="#"><span><i className="fa-solid fa-envelope"></i></span> info@MCapital.com</a>
                               </li>
                            </ul>
                         </div>
@@ -230,7 +227,7 @@ const HeaderOne = () => {
                               </div> */}
                            </div>
                         </div>
-                        <div className="col-xl-2 col-6">
+                        {/* <div className="col-xl-2 col-6">
                            <div className="tp-header-3-right">
                               <div className="tp-header-3-main-right d-flex align-items-center justify-content-end">
                                  <div className="tp-header-3-phone d-flex align-items-center">
@@ -238,7 +235,7 @@ const HeaderOne = () => {
                                        <Image src={call_icon} alt="theme-pure" />
                                     </div>
                                     <div className="tp-header-3-phone-content">
-                                       <span>Phone: <br /> <a href="tel:01900678956">+92 347 8381849</a></span>
+                                       <span>Phone: <br /> <a href="tel:01900678956">+1 (281) 701 3321</a></span>
                                     </div>
                                  </div>
                                  <div className="tp-header-3-hamburger-btn offcanvas-open-btn" onClick={() => setSidebarOpen(true)}>
@@ -252,14 +249,14 @@ const HeaderOne = () => {
                                  </div>
                               </div>
                            </div>
-                        </div>
+                        </div> */}
                      </div>
                   </div>
                </div>
             </div>
          </header>
          {/* <SearchPopup searchOpen={searchOpen} setSearchOpen={setSearchOpen} /> */}
-         <Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} home_three={true} />
+         {/* <Sidebar sidebarOpen={sidebarOpen} setSidebarOpen={setSidebarOpen} home_three={true} /> */}
 
       </>
    );

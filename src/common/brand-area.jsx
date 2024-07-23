@@ -8,8 +8,11 @@ import brand_img_2 from "@assets/img/brand/home-3/brand-2.png";
 import brand_img_3 from "@assets/img/brand/home-3/brand-3.png";
 import brand_img_4 from "@assets/img/brand/home-3/brand-4.png";
 import brand_img_5 from "@assets/img/brand/home-3/brand-5.png";
+import brand_img_6 from "@assets/img/brand/home-3/brand-6.png";
+import brand_img_7 from "@assets/img/brand/home-3/brand-7.png";
+import brand_img_8 from "@assets/img/brand/home-3/brand-8.png";
 
-const brand_img = [brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img_5, brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img_5,]
+const brand_img = [brand_img_1, brand_img_2, brand_img_3, brand_img_4, brand_img_5,brand_img_6, brand_img_7, brand_img_8,]
 
 const setting = {
     slidesPerView: 5,

@@ -94,7 +94,7 @@ const Sidebar = ({sidebarOpen, setSidebarOpen, home_three}) => {
                             <i className="fa-solid fa-phone"></i>
                             </div>
                             <div className="offcanvas__contact-content-content">
-                            <a href="tel:01310-069824"> +01 000 000 0000</a>
+                            <a href="tel:01310-069824"> +1 (281) 701 3321</a>
                             </div>
                         </div>
                     </div>

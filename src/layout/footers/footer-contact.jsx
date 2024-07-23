@@ -31,8 +31,8 @@ const FooterContact = ({bg_style, contact_style}) => {
                                         <Image src={headphone} alt="theme-pure" />
                                     </div>
                                     <div className="tp-cta-4-content">
-                                        <p>PERFECT SOLUTION From  <span>It Advisor</span></p>
-                                        <a href="tel:9266688000">+92 666 888 0000</a>
+                                        <p>PERFECT SOLUTION From  <span>M Capital</span></p>
+                                        <a href="tel:9266688000">+1 (281) 701 3321</a>
                                     </div>
                                 </div>
                             </div>

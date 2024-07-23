@@ -23,7 +23,7 @@ const ContactArea = () => {
                                         <EmailIconOne /> 
                                     </span>
                                 </div>
-                                <h3 className="tp-contact-item-title"><a href="mailto:@themepure.gmail.com">thepureingsai.co.uk</a></h3>
+                                <h3 className="tp-contact-item-title"><a href="mailto:@themepure.gmail.com">MCapital@info.com</a></h3>
                             </div>
                             <div className="tp-contact-content-phone d-flex align-items-center">
                                 <div className="tp-contact-content-phone-icon">
@@ -32,7 +32,7 @@ const ContactArea = () => {
                                     </span>
                                 </div>
                                 <h3 className="tp-contact-item-title">
-                                    <a href="tel:9266688000">+880 123 456 789 , 99875</a>
+                                    <a href="tel:9266688000">+1 (281) 701 3321</a>
                                 </h3>
                             </div>
                             <div className="tp-contact-location-wrapper d-flex">
@@ -41,13 +41,15 @@ const ContactArea = () => {
                                         Office Location
                                         <i className="fa-regular fa-arrow-down"></i>
                                     </h3>
-                                    <p>4517 Washington Ave. Manch ester, Kentucky 39495</p>
+                                    <p>12501 REED ROAD,
+                                    SUGAR LAND, TX 77478</p>
                                 </div>
                                 <div className="tp-contact-location">
                                     <h3 className="tp-contact-location-title">
                                         Office Location {" "}
                                     <i className="fa-regular fa-arrow-down"></i></h3>
-                                    <p>4517 Washington Ave. Manch ester, Kentucky 39495</p>
+                                    <p>12501 REED ROAD,
+                                    SUGAR LAND, TX 77478</p>
                                 </div>
                             </div>
                             </div>

@@ -178,7 +178,7 @@ const HeroSlider = () => {
               Elevating M Capital aviation with premier services, <span>expertise,</span> and industry-setting <span>standards</span>
 
             </p>
-            <div className="tp-hero-service-quote">
+          <div className="tp-hero-service-quote">
               <Image src={service_quote} alt="theme-pure" />
             </div>
           </div>

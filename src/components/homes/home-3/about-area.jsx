@@ -70,15 +70,16 @@ const AboutArea = ({about}) => {
                         <div className="tp-about-3-wrapper">
                             <div className="tp-about-3-title-wrapper"> 
                                 <span className="tp-section-title__pre">
-                                    about <span className="title-pre-color">IT Solutions</span>
+                                    about <span className="title-pre-color">Our Company</span>
                                     <AngleArrow /> 
                                 </span>
                                 <h3 className="tp-section-title">
-                                    Best Digital <span className="title-color">Technology</span> <br /> Agency For People
+                                    Best  <span className="title-color"></span>Airline Company <br /> 
                                 </h3> 
                             </div>
                             <p className="text">
-                                Transmax is the world’s driving worldwide coordinations supplier — we <br /> uphold industry and exchange the worldwide trade of merchandise <br /> through land transport.
+                            As we look to the future, M Capital LLC remains steadfast in our
+                            commitment to excellence, integrity, customer focus, innovation, and safety.
                             </p>
                             <div className="tp-about-progressbar-inner d-flex flex-wrap pt-20">
                             <div className="tp-about-3-progressbar d-flex align-items-center">
@@ -108,20 +109,8 @@ const AboutArea = ({about}) => {
                             </div>
                             </div>
                             <div className="tp-about-3-btn-inner d-flex flex-wrap">
-                            <div className="tp-about-btn ">
-                                <Link className="tp-btn" href="/about">Our History 
-                                    <i className="fa-regular fa-arrow-right-long"></i>
-                                </Link>
-                            </div>
-                            <div className="tp-about-3-year">
-                                <p>
-                                    BRENDON GARREY
-                                    <br />
-                                    <span>
-                                        mayor, since 21st Oct , 2019
-                                    </span>
-                                </p>
-                            </div>
+                            
+                            
                             </div>
                         </div>
                     </div>

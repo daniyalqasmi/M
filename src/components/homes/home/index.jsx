@@ -20,9 +20,9 @@ const HomeOne = () => {
         <HeroSlider />
         <AboutArea />
         <FeatureArea />
-        <ServiceArea />
+        {/* <ServiceArea /> */}
         {/* <BrandArea /> */}
-        <SupportArea />
+        {/* <SupportArea /> */}
         <TestimonialArea />
         <SliderArea />
         <FaqArea />
